@@ -29,6 +29,8 @@
     "index.js"
   ],
   "dependencies": {
+    "ap": "~0.2.0",
+    "balanced-match": "~0.2.0",
     "dot-parts": "~1.0.0"
   }
 }
