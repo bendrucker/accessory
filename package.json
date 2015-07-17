@@ -2,7 +2,7 @@
   "name": "accessory",
   "main": "index.js",
   "version": "1.0.1",
-  "description": "Create property accessor statements for dot paths",
+  "description": "Create property accessor/caller statements for dot paths",
   "license": "MIT",
   "repository": "bendrucker/accessory",
   "author": {
