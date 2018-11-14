@@ -1,4 +1,4 @@
-# accessory [![Build Status](https://travis-ci.org/bendrucker/accessory.svg?branch=master)](https://travis-ci.org/bendrucker/accessory)
+# accessory [![Build Status](https://travis-ci.org/bendrucker/accessory.svg?branch=master)](https://travis-ci.org/bendrucker/accessory) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/accessory.svg)](https://greenkeeper.io/)
 
 > Create property accessor/caller statements for dot paths
 

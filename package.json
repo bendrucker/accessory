@@ -23,14 +23,14 @@
   ],
   "devDependencies": {
     "tape": "^4.0.0",
-    "standard": "^8.5.0"
+    "standard": "^12.0.1"
   },
   "files": [
     "index.js"
   ],
   "dependencies": {
     "ap": "~0.2.0",
-    "balanced-match": "~0.4.2",
+    "balanced-match": "~1.0.0",
     "dot-parts": "~1.0.0"
   }
 }
